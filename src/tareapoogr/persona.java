@@ -12,7 +12,7 @@ package tareapoogr;
  */
 public class persona {
     
-    
+     
      //atributos
     private String nombre; 
     public String profesion; 
